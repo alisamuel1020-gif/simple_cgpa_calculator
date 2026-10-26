@@ -4,7 +4,7 @@ A simple, browser-based CGPA calculator supporting multiple semesters with a 5.0
 
 ## Features
 
-- **5.0 Grade Scale**: A=5.0, B=4.0, C=3.0, D=2.0, F=0.0
+- **5.0 Grade Scale**: A=5.0, B=4.0, C=3.0, D=2.0, E=1.0, F=0.0
 - **Multiple Semesters**: Track cumulative GPA across all academic terms
 - **Real-time Updates**: CGPA recalculates instantly as you type
 - **Per-Semester Stats**: See credits this semester, total credits, and CGPA
